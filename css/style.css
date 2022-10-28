@@ -1,0 +1,15 @@
+
+body{
+    background-color: #eaf6f6;
+    }
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: rebeccapurple;
+    width: 5%;
+    }
+    h1,h3{
+        color: blueviolet;
+    }
